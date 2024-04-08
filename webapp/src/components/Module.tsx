@@ -6,7 +6,6 @@ import {
   FaArrowCircleDown,
   FaArrowCircleUp,
   FaTrashAlt,
-  FaTrashRestoreAlt,
 } from "react-icons/fa";
 import { customAlphabet, nanoid } from "nanoid";
 import { toast } from "react-toastify";
